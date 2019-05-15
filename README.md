@@ -6,3 +6,6 @@ Best services on the web.
 
 # Payments
 * [2Checkout](https://www.2checkout.com/)
+
+# Self-hosted
+* [Shlink](https://shlink.io/)

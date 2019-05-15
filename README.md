@@ -9,3 +9,4 @@ Best services on the web.
 
 # Self-hosted
 * [Shlink](https://shlink.io/)
+* [Polr](https://polrproject.org/)

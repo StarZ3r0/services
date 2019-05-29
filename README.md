@@ -10,3 +10,6 @@ Best services on the web.
 # Self-hosted
 * [Shlink](https://shlink.io/)
 * [Polr](https://polrproject.org/)
+
+# Collections
+* [Ethical Alternatives & Resources](https://ethical.net/resources/)

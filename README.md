@@ -6,6 +6,9 @@ Best services on the web.
 
 # Payments
 * [2Checkout](https://www.2checkout.com/)
+* [Chargebee](https://www.chargebee.com/)
+* [Braintree](https://www.braintreepayments.com/hu)
+
 
 # Self-hosted
 * [Shlink](https://shlink.io/)

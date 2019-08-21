@@ -3,6 +3,7 @@ Best services on the web.
 
 # Cloud Storage
 * [Wasabi](https://wasabi.com/)
+* [JSONBase](https://jsonbase.com/) - API Based JSON Storage
 
 # Payments
 * [2Checkout](https://www.2checkout.com/)

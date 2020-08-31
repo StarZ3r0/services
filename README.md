@@ -1,6 +1,14 @@
 # Services
 Best services on the web.
 
+# Dev
+
+* [DevDocs.io](https://devdocs.io)
+
+# API
+
+* [ipstack](https://ipstack.com/)
+
 # Cloud Storage
 * [Wasabi](https://wasabi.com/)
 * [JSONBase](https://jsonbase.com/) - API Based JSON Storage
